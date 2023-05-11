@@ -29,4 +29,4 @@ příklad: [1, 2, 3, 4] a [2, 4, 9, 16] (2b)
 
 najděte maximum a minimum pomocí jiné funkce než min a max (2b)
 
-maximální počet bodů (45,5b)
+maximální počet bodů (45,5b) 
